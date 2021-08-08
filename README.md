@@ -1,2 +1,3 @@
 # openCv-projects
-This repo contains open cv programs along with 2 projects ->1. Face detection ,2.Round coin detection
+This repo includes file to detect human faces in an image .
+There are two folders one contains the req images and the other contains the program .
